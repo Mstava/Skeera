@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Skeera</string>
+    <string name="team_b">Team B</string>
+    <string name="team_a">Team A</string>
+    <string name="_0">0</string>
+    <string name="score">Score</string>
+    <string name="start">Start</string>
+    <string name="enter_name_of_team_a">Enter Name of Team A</string>
+    <string name="enter_name_of_team_b">Enter Name of Team B</string>
+    <string name="enter_the_period">Enter the period</string>
+</resources>
