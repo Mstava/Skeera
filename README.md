@@ -1,5 +1,5 @@
-# Quizam is a Quiz Android App
+# Skeera is a Football Score Keeper App
 
-## Quizam Screenshots:
+## Skeera Screenshots:
 
-<img src = "https://github.com/mstva/Quizam/blob/master/screenshots/QuizMainPage.png" width ="200" /> <img src = "https://github.com/mstva/Quizam/blob/master/screenshots/QuizPage.png" width ="200" /> <img src = "https://github.com/mstva/Quizam/blob/master/screenshots/QuizSolvingPage.png" width ="200" /> <img src = "https://github.com/mstva/Quizam/blob/master/screenshots/QuizScorePage.png" width ="200" />
+<img src = "https://github.com/Mstava/Skeera/blob/master/SkeeraScreenShots/StartScoreKeeper.png" width ="200" /> <img src = "https://github.com/Mstava/Skeera/blob/master/SkeeraScreenShots/ScoreKeeper.png" width ="200" /> <img src = "https://github.com/Mstava/Skeera/blob/master/SkeeraScreenShots/SkeeraInWorking.png" width ="200" />	
